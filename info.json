@@ -1,7 +1,7 @@
 {
     "name": "Robert Rocha",
     "social": ["https://robertalmeida.vercel.app/"],
-    "source-code-repo": "[URL_DO_SEU_REPOSITORIO_AQUI]",
+    "source-code-repo": "https://github.com/RobertAlmeida/rinha-de-backend-2025",
     "langs": ["go"],
     "storages": ["redis"],
     "messaging": [],
